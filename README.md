@@ -1,5 +1,5 @@
 #  Sales Performance Dashboard (Excel)
-![Dashboard Screenshot](sales dashboard excel.png)
+![Dashboard Screenshot](sales_dashboard_excel.png)
 
 ## 🔹 Project Overview
 This project is an interactive Sales Performance Dashboard built using Microsoft Excel.
